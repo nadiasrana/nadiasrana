@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Nadia 👋
 
-<!--
-**nadiasrana/nadiasrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analytics Engineering graduate student at Northeastern University with experience in Python, SQL, and Power BI.
 
-Here are some ideas to get you started:
+I’ve worked on projects involving customer segmentation, A/B testing, and data pipelines, and I’m interested in using data to improve product and business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Working On
+- Data analytics and dashboard projects
+- Improving my skills in Python and SQL
+- Building more real-world analytics projects
+
+## Tools I Use
+- Python (pandas, NumPy, scikit-learn)
+- SQL
+- Power BI, Excel
+- Git, Jupyter Notebook
