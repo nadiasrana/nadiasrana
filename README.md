@@ -11,7 +11,7 @@ decisions from.
 I'm on the Packaging Technologies commercial excellence team, where my main project
 is a customer master reconciliation: joining SAP customer data, an internal register
 of several thousand paper mill sites, and a third-party market dataset into a single
-Power BI star schema — so the commercial team can see, for the first time, which
+Power BI star schema so the commercial team can see, for the first time, which
 mills in the world it isn't selling to.
 
 What that's involved:
@@ -25,7 +25,7 @@ What that's involved:
   blank field.
 - **Dimensional modeling for Power BI** — two fact tables, eight dimensions, a
   documented data dictionary, and an open defect log with severity and owner.
-- **An AI matching assistant I scoped and built myself** — an LLM-backed tool that
+- **An AI matching assistant I scoped and built myself** an LLM-backed tool that
   drafts proposed matches for the review queue, with a human approving every one.
 - **Documentation and runbooks**, since the team has no data engineering function
   and everything I build has to be maintainable without me.
